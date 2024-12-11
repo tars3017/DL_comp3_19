@@ -1,0 +1,9 @@
+102flowers/
+dataset/
+dictionary/
+testing/
+inference/
+samples/
+
+## for macOS
+**/.DS_Store
